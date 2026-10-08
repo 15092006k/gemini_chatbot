@@ -7,7 +7,7 @@ from google import genai
 # GOOGLE AI STUDIO API KEY
 # ==========================================================
 
-API_KEY = "AQ.Ab8RN6Kqg1MWz8Ce1ggB90NYKrg5OjhBbbH2w6wHUohicpT4uw"
+API_KEY = "AQ.Ab8RN6I69WJXEYilH2XCyvqcOLePX7K5c9KkgUk2yTxvFZjZPA"
 
 
 # ==========================================================
